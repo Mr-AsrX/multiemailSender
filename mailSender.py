@@ -16,7 +16,7 @@ recvEmail = input("input your client email id OR client emails file(json/txt): "
 print("Type your multiline msg here: ")
 content = MIMEMultipart()
 content['From']= senderEmail
-content['Subject']="Test Work"
+content['Subject']=input("Email Subject: ")
 line = 0
 messageS = ""
 
