@@ -8,7 +8,6 @@ example@example.com <br />
 foo@foo.com <br />
 you can also add single email in  client/reciever email
 
-if araise any error on code plese ping me 
-you can also contribute on it 
+<h5>Thank You for read</h5>
 
 
